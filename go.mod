@@ -1,4 +1,4 @@
-module github.com/bernardo-bruning/ollama-copilot
+module github.com/galachad/ollama-copilot
 
 go 1.23
 
